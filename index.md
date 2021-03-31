@@ -30,7 +30,7 @@ This is the official page for OWASP Bhopal Chapter from Indian Subcontinent.
 <span style="font-size:12px;"> </span></p>
           <p style="line-height:16px">As Owasp Bhopal Community we have come up with April-2021 Monthly meet for the Community.<br>
 
-There will be a one-hour session on the topic "Approach Towards Mobile Application Pentesting" by Kunwar Atul.-<br><br>
+There will be a one-hour session on the topic "Approach Towards Mobile Application Pentesting" by Kunwar Atul.<br><br>
 
 
 
